@@ -6,10 +6,6 @@ Users can either type custom text or analyze a batch of tweets from a dataset. I
 
 **Live demo** : https://abhinavkarthik07-dual-mode-sentiment-analyzer-app-w1udpn.streamlit.app/
 
- 📸 Screenshots
-
-Real-Time Text Analysis | [Real-Time]("C:\Users\pingm\OneDrive\Pictures\Screenshots\Real time.png") |
-Dataset Visualization | [Dataset]("C:\Users\pingm\OneDrive\Pictures\Screenshots\Data sets.png") |
 
 🧰 Tech Stack
 
@@ -26,11 +22,7 @@ sentiment-analyzer/
 ├── app.py # Main Streamlit app
 ├── Sentiment.csv # Sample tweet dataset
 ├── requirements.txt # Dependencies
-
-📜 License
-
-This project is licensed under the MIT License.
-
+   
 🙋‍♂️ Author
 
 **Abhinav Karthik**  
